@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal-verma&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-verma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabal-verma" alt="prabal-verma" /></a> </p>
-
 - 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://prabalverma.vercel.app/](https://prabalverma.vercel.app/)
@@ -33,6 +31,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prableverme"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prableverme" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabal-verma&show_icons=true&locale=en" alt="prabal-verma" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prabal-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-verma&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabal-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabal-verma&" alt="prabal-verma" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prabal-verma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
