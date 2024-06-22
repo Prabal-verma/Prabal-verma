@@ -30,11 +30,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prableverme"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prableverme" /></a></p><br><br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prabal-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prabal-verma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabal-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" style="margin-top: 30px;">
+  <h2>📊 GitHub Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabal-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 45%; margin-bottom: 20px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabal-verma&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 45%; margin-bottom: 20px;"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabal-verma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 45%;"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prabal-verma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
