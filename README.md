@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.prabalverma.me](https://portfolio.prabalverma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio.prabalverma.me](https://portfolio.prabalverma.me)
 
 - 💬 Ask me about **reactjs, express js**
 
