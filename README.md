@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal-verma&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-verma" /> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.prabalverma.me](https://portfolio.prabalverma.me)
 
-- 💬 Ask me about **reactjs, express js**
+- 💬 Ask me about **Next.js, React.js, Express js**
 
 - 📫 How to reach me **Prableverma@gmail.com**
 
@@ -50,7 +50,6 @@
 
 <img align="left" height="192" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952yet34ro6fdmi09f28mq4xqfpbva4jaqikb4pomt8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<img align="left" height="190" src="https://www.icegif.com/wp-content/uploads/fortnite-icegif-40.gif"  />
 
 <img align="left" height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJndmFubzJwbjF4NjhpYWNqNWg1OWlzaGQ0YWpjdHg4cWkyNGtzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 <img align="left" height="190" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWgzbmxmeW9sYmx6Zjk1YWFjNHI5NjlxNGdncnd2NHd0Mjc3ZW10biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
