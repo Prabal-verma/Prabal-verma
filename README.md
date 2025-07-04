@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.prabalverma.me](https://portfolio.prabalverma.me)
+- 👨‍💻 All of my projects are available at [https://portfolio.prabalverma.me](https://portfolio.poxypixel.xyz)
 
 - 💬 Ask me about **Next.js, React.js, Express js**
 
